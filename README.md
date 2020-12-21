@@ -1,3 +1,9 @@
-This is a demo repository for study purpose
+# Demo
 
-# Learning Git
+Some description
+
+## Learning Git
+
+## Local development
+
+1. Open index.html in your browser
